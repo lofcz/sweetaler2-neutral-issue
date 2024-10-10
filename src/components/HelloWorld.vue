@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import {ref} from 'vue'
-import Swal from 'sweetalert2';
+import Swal from 'sweetalert2-neutral';
 import {onMounted} from "vue";
 
 defineProps<{ msg: string }>()

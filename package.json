@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "sweetalert2-neutral": "^11.14.1-neutral-fix2",
+    "sweetalert2-neutral": "^11.14.1-neutral-fix5",
     "vue": "^3.5.10"
   },
   "devDependencies": {
